@@ -7,7 +7,7 @@ install node
 install ruby
 
 # install cask
-# install caskroom/cask/brew-cask
+install caskroom/cask/brew-cask
 
 # install casks
 cask install java
