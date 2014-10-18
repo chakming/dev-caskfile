@@ -1,0 +1,27 @@
+#install brew
+tap homebrew/dupes
+install android-sdk
+install wget
+install go
+install node
+install ruby
+
+# install cask
+# install caskroom/cask/brew-cask
+
+# install casks
+cask install java
+
+cask install flux
+
+cask install virtualbox
+cask install vagrant
+
+cask install the-unarchiver
+
+cask install google-chrome
+cask install firefox
+
+cask install sublime-text
+cask install intellij-idea
+
