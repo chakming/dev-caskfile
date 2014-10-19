@@ -19,6 +19,8 @@ cask install vagrant
 
 cask install the-unarchiver
 
+cask install android-file-transfer
+
 cask install google-chrome
 cask install firefox
 
