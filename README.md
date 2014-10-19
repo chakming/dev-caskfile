@@ -1,7 +1,7 @@
-dev-brewfile
+dev-caskfile
 ============
 
-brewfile for developers
+brewfile/caskfile for developers
 
 0. clone  `Caskfile`
 1. install brew: `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
