@@ -8,6 +8,7 @@ install ruby
 
 # install cask
 install caskroom/cask/brew-cask
+tap caskroom/versions
 
 # install casks
 cask install java
@@ -24,6 +25,6 @@ cask install android-file-transfer
 cask install google-chrome
 cask install firefox
 
-cask install sublime-text
+cask install sublime-text3
 cask install intellij-idea
 
